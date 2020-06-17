@@ -6,7 +6,7 @@ This initial version is based on self-labeled sentences from 7,000 random CNN ar
 
 The current model is based on pre-trained [RoBERTa](https://huggingface.co/transformers/model_doc/roberta.html) architecture from Facebook and performs reasonably against standard news sentences. The model is currently more of a proof-of-concept and there are plans for a more robust and scientific approach to its development.  
 
-### Model eval metrics:
+### Model evaluation metrics
 * Accuracy: 91.08%
 * F1 Score: 91.79%
 * ROC AUC: 90.93%
