@@ -22,10 +22,17 @@ The current model leverages a pre-trained [RoBERTa](https://huggingface.co/trans
 
 ## Usage
 
-1. Download the trained model zip [here](https://drive.google.com/file/d/1vjdike8Wn6OHB4bXBohs_5DxTojXImHt/view?usp=sharing)
-2. Install [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
-3. 
-```ddddd
-fgfg
-dgfdf
+* Download the trained model zip [here](https://drive.google.com/file/d/1vjdike8Wn6OHB4bXBohs_5DxTojXImHt/view?usp=sharing)
+* Install [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
+
+```
+from simpletransformers.classification import ClassificationModel
+
+sent = 'The president should always speak to the people that got him into office' # Example sentence
+
+trained_model = ClassificationModel("roberta", {PATH}) # PATH is the location of the extracted trained model
+
+predictions, raw_outputs = trained_model.predict([sent])
+
+print(predictions[0]) # '1' indicates opinion,'0' indicated non-opinion
 ```
