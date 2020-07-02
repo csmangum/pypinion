@@ -34,5 +34,5 @@ sent = 'The president should always speak to the people that got him into office
 trained_model = ClassificationModel("roberta", PATH) # PATH is the location of the extracted trained model
 predictions, raw_outputs = trained_model.predict([sent])
 
-print(predictions[0]) # '1' indicates opinion,'0' indicated non-opinion
+print(predictions[0]) # '1' indicates opinion,'0' indicates non-opinion
 ```
