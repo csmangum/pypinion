@@ -24,7 +24,8 @@ The current model leverages a pre-trained [RoBERTa](https://huggingface.co/trans
 
 1. Download the trained model zip [here](https://drive.google.com/file/d/1vjdike8Wn6OHB4bXBohs_5DxTojXImHt/view?usp=sharing)
 2. Install [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
-3. ```ddddd
+3. 
+```ddddd
 fgfg
 dgfdf
 ```
