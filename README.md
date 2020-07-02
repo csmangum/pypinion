@@ -18,3 +18,10 @@ The current model leverages a pre-trained [RoBERTa](https://huggingface.co/trans
 * Slow to score large amounts of sentences
 * Not intended to be a fact identifier
 * Not built for colloquial or informal text like twitter
+
+
+## Usage
+
+1. Download the trained model zip [here](https://drive.google.com/file/d/1vjdike8Wn6OHB4bXBohs_5DxTojXImHt/view?usp=sharing)
+2. Install [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
+3. `ddddd`
