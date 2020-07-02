@@ -39,7 +39,7 @@ print(predictions[0]) # '1' indicates opinion,'0' indicates non-opinion
 ## Examples
 
 | Sentence | Result |
-|---|:-:|
+|---|:---:|
 | The show was successful because even though it was about death, it lacked violence. | Opinion |
 | The apparent car bomb attack happened outside of St. Finbar's Catholic Church, according to Plateau Gov. Jonah David Jang. | Non-Opinion |
 | Perhaps it's good for his job as a comedian, but, personally, there's no sense of schadenfreude. | Opinion |
