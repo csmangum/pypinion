@@ -28,6 +28,7 @@ The current model leverages a pre-trained [RoBERTa](https://huggingface.co/trans
 ```python
 from simpletransformers.classification import ClassificationModel
 
+
 sent = 'The president should always speak to the people that got him into office' # Example sentence
 
 trained_model = ClassificationModel("roberta", {PATH}) # PATH is the location of the extracted trained model
