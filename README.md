@@ -1,5 +1,5 @@
 # PyPinion
-PyPinion is a model designed to identify opinions in text.
+PyPinion is a classification model designed to identify opinions in news articles.
 
 ## Overview
 This initial version is based on self-labeled sentences from 7,000 random CNN articles using a library called [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers) to classify if a sentence is an opinion or not. Simple Transformers is based on the [Transformers](https://github.com/huggingface/transformers) library by HuggingFace.
