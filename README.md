@@ -38,7 +38,6 @@ print(predictions[0]) # '1' indicates opinion,'0' indicates non-opinion
 ```
 ## Examples
 
-### Opinions
 | Sentence | Result |
 |---|---|
 |   |   |
