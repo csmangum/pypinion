@@ -40,6 +40,13 @@ print(predictions[0]) # '1' indicates opinion,'0' indicates non-opinion
 
 | Sentence | Result |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
+| The show was successful because even though it was about death, it lacked violence. |   |
+| The apparent car bomb attack happened outside of St. Finbar's Catholic Church, according to Plateau Gov. Jonah David Jang. |   |
+| Perhaps it's good for his job as a comedian, but, personally, there's no sense of schadenfreude. |   |
+| Similarly, when fewer people are waiting to cross the road, the traffic is given a longer set of green lights. |   |
+| They choose to stop paying, one way or another. |   |
+| South Sudan, which became independent in 2011, is facing many challenges. |   |
+| FC Shakhtar regretfully informs that on 8 February 2014 the life of a footballer Maicon Pereira de Oliveira tragically ended. |   |
+| The list includes the startups I consider to have the most potential, to be the most viable -- not necessarily the most popular or hyped. |   |
+| Europe has more than its fair share of sausages that time forgot. |   |
+| The Spanish club, also hit with a $455,000 fine, says the transfer ban is "disproportionate" and "excessive." |   |
