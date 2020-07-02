@@ -17,7 +17,7 @@ The current model leverages a pre-trained [RoBERTa](https://huggingface.co/trans
 ### Important Notes
 * Slow to score large amounts of sentences
 * Not intended to be a fact identifier
-* Not built for colloquial or informal text like twitter
+* Not tested on colloquial or informal text like twitter
 
 
 ## Usage
