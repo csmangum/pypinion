@@ -25,7 +25,7 @@ The current model leverages a pre-trained [RoBERTa](https://huggingface.co/trans
 * Download the trained model zip [here](https://drive.google.com/file/d/1vjdike8Wn6OHB4bXBohs_5DxTojXImHt/view?usp=sharing)
 * Install [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
 
-```
+```python
 from simpletransformers.classification import ClassificationModel
 
 sent = 'The president should always speak to the people that got him into office' # Example sentence
